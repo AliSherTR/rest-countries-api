@@ -23,7 +23,7 @@ export default function SearchBar() {
                 <option value="Americas">Americas</option>
                 <option value="Asia">Asia</option>
                 <option value="Europe">Europe</option>
-                <option value="Antartica">Antartica</option>
+                <option value="Antarctica">Antartica</option>
             </select>
         </div>
     );
