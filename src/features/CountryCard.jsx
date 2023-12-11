@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 
 export default function CountryCard({ country, id }) {
-    console.log(country);
     return (
         <Link to={`/country/:${id}`}>
             <div className="h-[200px]">
