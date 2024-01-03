@@ -23,7 +23,7 @@ export default function SearchBar() {
                 onChange={(e) => setRegion(e.target.value)}
             >
                 <option value="" defaultChecked>
-                    Filter by Region
+                    Filter by Continent
                 </option>
                 <option value="Africa">Africa</option>
                 <option value="Americas">Americas</option>
